@@ -1,0 +1,9 @@
+# modules
+node_modules
+
+# log
+yarn-error.log
+
+# config
+.env
+yarn.lock
