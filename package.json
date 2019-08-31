@@ -8,9 +8,9 @@
   },
   "dependencies": {
     "botbuilder-adapter-slack": "^1.0.4",
-    "botkit": "^4.5.0",
     "deno": "^0.0.4",
     "dotenv": "^8.1.0",
+    "restify": "^8.4.0",
     "typescript": "^3.6.2"
   }
 }
